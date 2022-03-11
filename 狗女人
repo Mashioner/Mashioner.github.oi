@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>狗陈陈专属网页</title>
+	</head>
+	<body>
+		<h2>请输入狗陈陈的个人信息</h2>
+		<hr >
+		<hr >
+		<form action="" method="">
+			姓名：
+			<input type="text" name="" id="" value="" placeholder="请输入狗陈陈姓名"/><br><br>
+			喜欢和狗女人的姿势:
+			<label>
+				<input type="radio" name="" id="" value="" checked=""/>传统式
+			</label>
+			<label>
+				<input type="radio" name="" id="" value="" />后入式
+			</label>
+			<label>
+				<input type="radio" name="" id="" value="" />女上式
+			</label>
+			<label>
+				<input type="radio" name="" id="" value="" />排山蹈海式
+			</label>
+			<br><br>
+			爱好：
+			<select name="">
+				<option value="">阿狗</option>
+				<option value="">狗女人</option>
+				<option value="">竹杆杆</option>
+			</select><br><br>
+			想对狗女人说的话：<br>
+			<textarea rows="8" cols="20" placeholder="我好想你啊狗女人"></textarea><br>
+			最喜欢狗女人的哪：
+			<select name="">
+				<option value="">它</option>
+				<option value="">pp</option>
+				<option value="">烈焰红唇</option>
+				<option value="">大脸饼子</option>
+				</select><br><br>
+			狗女人的它是不是世界上最大的：
+			<label>
+				<input type="radio" name="" id="" value="" checked=""/>是
+			</label>
+			<br><br>
+			
+		<input type=submit value="提交" />
+		<input type=submit value="足一口再提交" /><br><br>
+		<h3>tip：由于技术有限，请截图结果和竹杆杆看</h3><br>
+		<img src="img/微信图片_20220311124942.jpg" >
+	</body>
+</html>
